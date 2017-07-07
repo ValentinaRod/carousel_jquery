@@ -1,0 +1,102 @@
+/* font-family: 'Caveat', cursive; */
+/* font-family: 'Homemade Apple', cursive; */
+*{
+	width: 100%;
+    margin: auto;
+   
+}
+body {
+	background: url(../img/fondo3.jpg)
+}
+
+.caja-negra{
+	background-color: #000;
+	width: 500px;
+	height: 500vh;
+}
+
+
+.container-fluid h2{
+	font-family: 'Homemade Apple', cursive;
+	width: 800px;
+	background-color: #000;
+	color: white;
+	position:relative;
+	left: -177px;
+	right: 0px;
+	bottom:0px;
+	top: 23px;
+	font-size: 80px;
+	padding: 0;
+	border: 20px solid #FFF;
+}
+
+
+#myCarousel {
+	position:relative;
+	left: 50px;
+	right: 0px;
+	bottom:0px;
+	top: 80px;
+	border: 50px solid white;
+}
+
+p{
+	font-family: 'Bellefair', serif;
+	background-color: #000;
+	position:relative;
+	left: -100px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
